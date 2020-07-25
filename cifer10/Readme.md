@@ -1,0 +1,3 @@
+
+You can download dataset from :
+https://www.kaggle.com/c/cifar-10/data
